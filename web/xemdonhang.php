@@ -11,7 +11,7 @@ require_once ('../db/dbhelper.php');
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title> MOWO - MOTO WORLD </title>
+        <title> XSGC - Xe Xấu Giá Cao </title>
         <link href="../CSS/styles.css" rel="stylesheet" />
         <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/js/all.min.js" crossorigin="anonymous"></script>
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" crossorigin="anonymous"></script>
@@ -54,7 +54,7 @@ require_once ('../db/dbhelper.php');
                                                     </div>
                                                </div>
                                                <div>
-                                                    <h5 class="text-center font-weight-light my-4"> MOWO - MOTO WORLD xin chân thành cảm ơn Quý khách!</h5>
+                                                    <h5 class="text-center font-weight-light my-4"> XSGC - Xe Xấu Giá Cao xin chân thành cảm ơn Quý khách!</h5>
 
                                                </div>
                                             </div>
@@ -71,7 +71,7 @@ require_once ('../db/dbhelper.php');
                 <footer class="py-4 bg-light mt-auto">
                     <div class="container-fluid">
                         <div class="d-flex align-items-center justify-content-between small">
-                            <div class="text-muted">Copyright &copy; MOWO - MOTO WORLD 2020</div>
+                            <div class="text-muted">Copyright &copy; XSGC - Xe Xấu Giá Cao</div>
                         </div>
                     </div>
                 </footer>
