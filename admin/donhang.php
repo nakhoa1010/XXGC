@@ -29,7 +29,7 @@ if(!empty($_POST))
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title> MOWO - MOTO WORLD </title>
+        <title> XXGC - XE XẤU GIÁ CAO </title>
         <link href="../CSS/styles.css" rel="stylesheet" />
         <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" crossorigin="anonymous"></script>
@@ -189,7 +189,7 @@ if(!empty($_POST))
                 <footer class="py-4 bg-light mt-auto">
                     <div class="container-fluid">
                         <div class="d-flex align-items-center justify-content-between small">
-                            <div class="text-muted"> Copyright &copy; MOWO - MOTO WORLD 2020 </div>
+                            <div class="text-muted"> Copyright &copy; XXGC - XE XẤU GIÁ CAO </div>
                         </div>
                     </div>
                 </footer>

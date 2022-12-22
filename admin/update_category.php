@@ -52,7 +52,7 @@ if(!empty($_POST)){
     </head>
     <body class="sb-nav-fixed">
         <nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
-            <a class="navbar-brand" href="admin.php"> MOWO </a>
+            <a class="navbar-brand" href="admin.php"> XXGC </a>
             
             <!-- Navbar Search-->
             <form class="d-none d-md-inline-block form-inline ml-auto mr-0 mr-md-3 my-2 my-md-0">
@@ -173,7 +173,7 @@ if(!empty($_POST)){
                 <footer class="py-4 bg-light mt-auto">
                     <div class="container-fluid">
                         <div class="d-flex align-items-center justify-content-between small">
-                            <div class="text-muted">Copyright &copy; MOWO - MOTO WORLD 2020</div>
+                            <div class="text-muted">Copyright &copy; XXGC - XE XẤU GIÁ CAO</div>
                         </div>
                     </div>
                 </footer>
