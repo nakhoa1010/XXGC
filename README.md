@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h1 align="center"><b>Phát triển ứng dụng web - IS207.M12.HTCL</b></h>
+<h1 align="center"><b>Phát triển ứng dụng web - IS207.N11.HTCL</b></h>
 
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** Phát triển ứng dụng web
