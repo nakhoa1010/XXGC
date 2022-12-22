@@ -37,7 +37,7 @@ require_once ('../db/dbhelper.php');
     <body class="sb-nav-fixed">
         <nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
 <!--Logo-->             
-           <a class="navbar-brand" href="admin.php"> Moto World </a>
+           <a class="navbar-brand" href="admin.php"> XXGC - XE XẤU GIÁ CAO </a>
 
 <!--Logout--> 
             <form class="d-none d-md-inline-block form-inline ml-auto mr-0 mr-md-3 my-2 my-md-0">        
