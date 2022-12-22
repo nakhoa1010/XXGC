@@ -142,9 +142,10 @@ if(!empty($_POST))
                                         <thead>
                                             <tr>
                                                 <th> ID </th>
+                                                <th> Tên khách hàng </th>
                                                 <th> Tên sản phẩm </th>
                                                 <th> Số lượng đặt </th>
-                                                <th> Tên khách hàng </th>
+                                                
                                                 <th> Số điện thoại </th>
                                                 <th> Email </th>
                                                 <th> Địa chỉ </th>
@@ -162,9 +163,10 @@ if(!empty($_POST))
                                         {
                                             echo '<tr>
                                                         <td>'.$item['id'].'</td>
+                                                        <td>'.$item['tenkh'].'</td>
                                                         <td>'.$item['tensp'].'</td>  
                                                         <td>'.$item['soluongdat'].'</td>  
-                                                        <td>'.$item['tenkh'].'</td>
+                                                        
                                                         <td>'.$item['sdt'].'</td>
                                                         <td>'.$item['email'].'</td>  
                                                         <td>'.$item['diachi'].'</td>  
