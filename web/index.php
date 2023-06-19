@@ -44,7 +44,7 @@ require_once ('../db/dbhelper.php');
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#"> DỊCH VỤ </a>
+            <a class="nav-link" href="sanpham.php"> DỊCH VỤ </a>
           </li>       
         </ul>
       </div>
