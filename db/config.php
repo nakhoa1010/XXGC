@@ -1,6 +1,6 @@
 <?php
-define('HOST','localhost:3306');
-define('USERNAME','root');
+define('HOST','localhost');
+define('USERNAME','pck2uro1ax0t@localhost');
 define('PASSWORD','');
-define('DATABASE','banxe');
+define('DATABASE','pck2uro1ax0t_demo');
 ?>
