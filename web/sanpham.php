@@ -38,7 +38,7 @@ require_once ('../db/dbhelper.php');
           <li class="nav-item">           
           </li>
           <li class="nav-item active">
-            <a class="nav-link" href="home.php">TRANG CHỦ
+            <a class="nav-link" href="index.php">TRANG CHỦ
               <span class="sr-only">(current)</span>
             </a>
           </li>
